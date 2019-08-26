@@ -1,12 +1,12 @@
 {
   "private": true,
   "name": "sandbox",
-  "version": "4.0.5",
+  "version": "4.0.6",
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.2",
     "react-scripts": "^3.0.1",
-    "rebass": "^4.0.5",
+    "rebass": "^4.0.6",
     "styled-components": "^4.0.0"
   },
   "scripts": {
